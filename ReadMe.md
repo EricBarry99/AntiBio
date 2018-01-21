@@ -8,3 +8,5 @@ a partir d'ici, utilisez le projet comme un projet Django.
 
 Exemple:
 Lancer le projet sur localhost:8000 --- > `python3 manage.py runserver`
+
+Afin de quitter l'environnement virtuel, executez: `deactivate`
