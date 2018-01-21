@@ -1,7 +1,7 @@
-Pour lancer le projet, ouvrir une fenetre de commande sur la racine AntiBio:
-- source antibioenv/bin/activate
+Pour lancer le projet, ouvrir une fenetre de commande sur la racine AntiBio et executez:
+`source antibioenv/bin/activate`
 
-Une fois la commande effectuer, l'utilisateur dev@dev-VirtualBox:~/AntiBio$
+Une fois la commande effectuee, l'utilisateur dev@dev-VirtualBox:~/AntiBio$
 devient (antibioenv) dev@dev-VirtualBox:~/AntiBio$.
 
 Changer votre repertoire vers le projet Django (Antibio) et
